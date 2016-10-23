@@ -1,0 +1,39 @@
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\bin\Debug\ImageMerge.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\bin\Debug\ImageMerge.exe
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\bin\Debug\ImageMerge.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\MainWindow.g.cs
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\App.g.cs
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\ImageMerge_MarkupCompile.cache
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\ImageMerge_MarkupCompile.lref
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\MainWindow.baml
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\ImageMerge.g.resources
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\ImageMerge.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\ImageMerge.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\ImageMerge.exe
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\obj\Debug\ImageMerge.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\bin\Debug\back.jpg
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\bin\Debug\icon.jpg
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\bin\Debug\QRCoder.dll
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\bin\Debug\UnityEngine.dll
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\bin\Debug\ThoughtWorks.QRCode.dll
+c:\users\ryan\documents\visual studio 2015\Projects\ImageMerge\ImageMerge\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\ryan\ImageMerge\ImageMerge\bin\Debug\ImageMerge.exe.config
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\ImageMerge.exe
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\ImageMerge.pdb
+C:\ryan\ImageMerge\ImageMerge\bin\Debug\back.jpg
+C:\ryan\ImageMerge\ImageMerge\bin\Debug\icon.jpg
+C:\ryan\ImageMerge\ImageMerge\bin\Debug\ImageMerge.exe
+C:\ryan\ImageMerge\ImageMerge\bin\Debug\ImageMerge.pdb
+C:\ryan\ImageMerge\ImageMerge\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\ryan\ImageMerge\ImageMerge\bin\Debug\QRCoder.dll
+C:\ryan\ImageMerge\ImageMerge\bin\Debug\ThoughtWorks.QRCode.dll
+C:\ryan\ImageMerge\ImageMerge\bin\Debug\UnityEngine.dll
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\ImageMerge.csprojResolveAssemblyReference.cache
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\MainWindow.g.cs
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\App.g.cs
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\ImageMerge_MarkupCompile.cache
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\ImageMerge_MarkupCompile.lref
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\MainWindow.baml
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\ImageMerge.g.resources
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\ImageMerge.Properties.Resources.resources
+C:\ryan\ImageMerge\ImageMerge\obj\Debug\ImageMerge.csproj.GenerateResource.Cache

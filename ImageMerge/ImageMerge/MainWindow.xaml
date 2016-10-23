@@ -1,0 +1,22 @@
+﻿<Window x:Class="ImageMerge.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageMerge"
+        mc:Ignorable="d"
+        Title="MainWindow" WindowState="Maximized" >
+    <Grid>
+        
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.9*"/>
+                <RowDefinition Height="0.1*"/>
+            </Grid.RowDefinitions>
+            <Image Grid.Row="0" Name="imgPreview" HorizontalAlignment="Stretch" Margin="10" Source="bg.jpg" Stretch="Uniform" VerticalAlignment="Stretch"  />
+            <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button    Height="22" Width="60" Margin="10,0,10,0" Content="generate" HorizontalAlignment="Center" Click="Button_Click"  />
+            <Button    Height="22" Width="60" Margin="10,0,10,0" Content="generate1" HorizontalAlignment="Center" Click="Button_Click_1"    />
+        </StackPanel>
+         
+    </Grid>
+</Window>
